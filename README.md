@@ -55,3 +55,5 @@ Contribute in `TalkFriend` WebApp :)
 **If you want to contribute in this project you can inform me in** [Facebook Messenger](https://facebook.com/ahmed.jubayer.69/ "My Facebook Account") **and can get more information about this project. Contributers are mostly welcomed!**
 
 ---
+
+### Made with ❤️ in Bangladesh

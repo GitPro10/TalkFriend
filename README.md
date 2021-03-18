@@ -1,6 +1,6 @@
+#TalkFriend
 
-
-![LOGO](white_logo.png)
+**![LOGO](white_logo.png)**
 ---
 **[Original Hosted Website](http://talkfriend.atwebpages.com/ "TalkFriend")**
 

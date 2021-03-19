@@ -1,6 +1,6 @@
 <?php
 session_start();
-include("/server/conn.php");
+include("server/conn.php");
 $showAlert = false;
 $showError = false;
 $showAlertJS = false;

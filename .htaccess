@@ -10,7 +10,7 @@ REDIRECT /chat http://localhost:8000/
 
 
 
-REDIRECT /conn http://localhost:8000/404
+REDIRECT /server/conn http://localhost:8000/404
 
 
 ErrorDocument 404 /404

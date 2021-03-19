@@ -1,6 +1,6 @@
 <?php
 session_start();
-include("conn.php");
+include("/server/conn.php");
 
 $showAlert = false;
 $showError = false;
@@ -258,7 +258,7 @@ if (isset($_POST["logout"])) {
   <script>
     $(document).ready(function() {
       setInterval(function () {
-        $('#messages').load('server.php')
+        $('#messages').load('/server/server.php')
 
       }, 1000);
 

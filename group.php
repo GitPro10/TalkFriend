@@ -1,6 +1,6 @@
 <?php
 session_start();
-include("conn.php");
+include("/server/conn.php");
 $showAlert = false;
 $showError = false;
 $showAlertJS = false;
@@ -344,7 +344,7 @@ if (isset($_POST["delete-group-confirm"])) {
   <script>
     $(document).ready(function() {
       setInterval(function () {
-        $('#messages').load('server2.php')
+        $('#messages').load('/server/server2.php')
 
       }, 1000);
 

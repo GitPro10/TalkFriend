@@ -1,0 +1,16 @@
+RewriteEngine on
+RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [NC,L]
+
+REDIRECT /home http://localhost:8000/
+REDIRECT /chat http://localhost:8000/
+
+
+
+REDIRECT /conn http://localhost:8000/404
+
+
+ErrorDocument 404 /404

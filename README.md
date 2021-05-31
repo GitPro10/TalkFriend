@@ -3,7 +3,7 @@
 
 ***
 > *This project is not maintained properly and have several bugs.
-Sorry, but I will work on it soon.* 🙏
+Sorry, but I will work on it soon.*
 ---
 ## About
 *This is a Web-Application made using PHP.
@@ -15,16 +15,16 @@ It's made for chatting globally and make new friends easily.*
 | Key Features |
 |---|
 | *Open Source* |
-| *Multiple accounts* |
+| *Multiple Accounts* |
 | *End-to-End Encrypted* |
-| *Global & Group chatting* |
+| *Global & Group Chatting* |
 
 ***
 
 ## Credits
 | Name | Work | Role |
 |---|---|---|
-| *MD Jubayer Ahmed* | *Logic & Algorithms* | *Creator* |
+| *Jubayer Ahmed* | *Logic & Algorithms* | *Creator* |
 
 ***
 

@@ -2,7 +2,7 @@
 **![LOGO](logo.png)**
 
 ***
-> *This project is not maintained property and have several bugs. Sorry, but I will work on it soon* 🙏
+> *This project is not maintained properly and have several bugs. Sorry, but I will work on it soon.* 🙏
 ---
 ## About
 *This is a Web-Application made using PHP. It's made for chatting globally and make new friends easily.*

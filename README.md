@@ -1,5 +1,5 @@
 # TalkFriend
-**![LOGO](logo.png)**
+**![LOGO](https://i.ibb.co/wLjsNkK/Talk-Friend-Logo.png)**
 
 ***
 

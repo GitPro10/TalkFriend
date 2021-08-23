@@ -11,7 +11,7 @@ It's made for chatting globally and make new friends easily.*
 
 ## Features
 | Key Features |
-|---|
+|-|
 | *Open Source* |
 | *Multiple Accounts* |
 | *End-to-End Encrypted* |
@@ -21,16 +21,13 @@ It's made for chatting globally and make new friends easily.*
 
 ## Credits
 | Name | Work | Role |
-|---|---|---|
+|-|-|-|
 | *Jubayer Ahmed* | *Logic & Algorithms* | *Creator* |
 
 ***
 
 ## Social Media
 **🔗 [Facebook Account](https://facebook.com/ahmed.jubayer.69/ "My Facebook Account")**
-<br/>
-**🔗 [YouTube Channel](https://youtube.com/c/GamingDudes-xyz/ "My YouTube Channel")**
-
 ***
 
 ## Contribute
